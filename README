@@ -1,0 +1,5 @@
+This code herein is an extension of the AutoPylot project found here:
+http://home.wlu.edu/~levys/software/ardrone_autopylot/
+
+Simply put the 1.8 version of the SDK in the projec directory, compile the libraries, and type 'make'.
+The various .sh files provide either local recording of the stream, or live streaming to a jason.tv account.
